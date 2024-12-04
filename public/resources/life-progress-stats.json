@@ -1,0 +1,49 @@
+{
+  "Social Connections": {
+    "Family relationships": 51,
+    "Friendships": 65,
+    "Community involvement": 45,
+    "Social skills": 60
+  },
+  "Career": {
+    "Job satisfaction": 26,
+    "Work-life balance": 51,
+    "Career goals": 80,
+    "Professional development": 70
+  },
+  "Personal Development": {
+    "Learning new skills": 33,
+    "Hobbies": 71,
+    "Self-care": 30,
+    "Mental health": 60
+  },
+  "Finances": {
+    "Income": 65,
+    "Savings": 50,
+    "Investments": 45,
+    "Debt management": 70
+  },
+  "Mind & Spirit": {
+    "Meditation": 40,
+    "Yoga": 13,
+    "Religious practices": 50,
+    "Nature connection": 60
+  },
+  "Health & Fitness": {
+    "Exercise routine": 65,
+    "Diet": 60,
+    "Sleep": 70,
+    "Medical check-ups": 80
+  },
+  "Relationships": {
+    "Romantic relationships": 75,
+    "Communication skills": 65,
+    "Conflict resolution": 59
+  },
+  "Creativity": {
+    "Art": 72,
+    "Music": 19,
+    "Writing": 81,
+    "DIY projects": 40
+  }
+}
